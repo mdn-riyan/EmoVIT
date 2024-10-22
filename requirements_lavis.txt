@@ -21,8 +21,6 @@ contexttimer==0.3.3
 contourpy==1.1.1
 cycler==0.12.1
 cymem==2.0.8
-decorator==5.1.1
-decord==0.6.0
 diffusers==0.16.0
 distlib==0.3.8
 einops==0.8.0
