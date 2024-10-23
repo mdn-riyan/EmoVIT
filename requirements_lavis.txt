@@ -18,9 +18,11 @@ cloudpathlib==0.19.0
 cmake==3.30.3
 confection==0.1.5
 contexttimer==0.3.3
-contourpy==1.1.1
+contourpy==1.2
 cycler==0.12.1
 cymem==2.0.8
+decorator==5.0
+decord==0.6.0
 diffusers==0.16.0
 distlib==0.3.8
 einops==0.8.0
@@ -28,7 +30,7 @@ executing==2.1.0
 fairscale==0.4.4
 filelock==3.16.1
 fonttools==4.53.1
-fsspec==2024.9.0
+fsspec==2024.6.1
 ftfy==6.2.3
 gitdb==4.0.11
 GitPython==3.1.43
@@ -39,7 +41,6 @@ imageio==2.35.1
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
 iopath==0.1.10
-ipython==8.12.3
 jedi==0.19.1
 Jinja2==3.1.4
 jsonschema==4.23.0
@@ -74,10 +75,9 @@ nvidia-cusparse-cu11==11.7.4.91
 nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
 omegaconf==2.3.0
-opencv-python-headless==4.5.5.64
 opendatasets==0.1.22
 packaging==24.1
-pandas==2.0.3
+pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 pickleshare==0.7.5
@@ -88,8 +88,7 @@ plotly==5.24.1
 portalocker==2.10.1
 pre-commit==3.5.0
 preshed==3.0.9
-prompt_toolkit==3.0.47
-protobuf==5.28.2
+protobuf==5.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==17.0.0
@@ -136,7 +135,6 @@ toml==0.10.2
 torch==2.0.0
 torchaudio==2.0.1
 torchvision==0.15.1
-tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
 transformers==4.31.0
